@@ -1,0 +1,203 @@
+{
+  "name": "Aybuke",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Aybuke Yaren Kolcu -",
+  "headerTaglineThree": "curious cloud engineer and developer",
+  "headerTaglineFour": " based in Ankara, Turkey.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/AybYrn"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/aybüke-yaren/"
+    },
+    {
+      "id": "4",
+      "title": "Medium",
+      "link": "https://medium.com/@aybukeyaren4"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:helloaybyrn@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "BestCloudFor.me",
+      "role": "Native Cloud Engineer Associate",
+      "dates": "October 2024 - July 2025",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=bestcloudfor.me&sz=128",
+      "url": "https://bestcloudfor.me/",
+      "accomplishments": [
+        "Designed and managed scalable, secure, and cost-efficient AWS architectures.",
+        "Improved operational efficiency with Kubernetes-based orchestration.",
+        "Enhanced monitoring and troubleshooting with OpenSearch and New Relic.",
+        "Automated delivery workflows with ArgoCD and Jenkins."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Commencis",
+      "role": "Cloud Engineer Intern",
+      "dates": "July - August 2024",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=commencis.com&sz=128",
+      "url": "https://www.commencis.com/",
+      "accomplishments": [
+        "Designed and implemented a proof-of-concept cloud architecture.",
+        "Worked with Terraform for infrastructure as code.",
+        "Implemented Jenkins pipelines to improve deployment workflows.",
+        "Shadowed senior engineers while resolving real-world support tickets."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Actioner",
+      "role": "Solution Engineer",
+      "dates": "January - June 2024",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=actioner.com&sz=128",
+      "url": "https://actioner.com/",
+      "accomplishments": [
+        "Participated in incident response and resolution in production environments.",
+        "Strengthened troubleshooting skills through hands-on operational support.",
+        "Worked closely with teams to deliver practical solutions under time pressure."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Amazon Web Services",
+      "role": "Cloud Support Associate Intern",
+      "dates": "February - August 2023",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
+      "url": "https://aws.amazon.com/",
+      "accomplishments": [
+        "Earned AWS Cloud Practitioner certification while building cloud fundamentals.",
+        "Developed a serverless web application using AWS services.",
+        "Built practical experience with scalable and cost-effective cloud solutions."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Jotform",
+      "role": "Backend and UI Developer Intern",
+      "dates": "June - July 2022",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=jotform.com&sz=128",
+      "url": "https://www.jotform.com/",
+      "accomplishments": [
+        "Designed and built a URL redirection tool for internal use.",
+        "Used PHP for backend functionality with HTML, CSS, and React for the interface.",
+        "Delivered a streamlined tool that improved efficiency for Jotform employees."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Simsoft Computer Technologies",
+      "role": "Content Developer",
+      "dates": "June - August 2021",
+      "logoSrc": "https://www.google.com/s2/favicons?domain=simsoft.com.tr&sz=128",
+      "url": "https://simsoft.com.tr/",
+      "accomplishments": [
+        "Developed realistic simulations using 3ds Max, Unity, and specialized middleware.",
+        "Helped create immersive training environments for military personnel.",
+        "Contributed to technically detailed content in a simulation-focused setting."
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Cloud Engineering",
+      "description": "I build and support scalable AWS-based systems with a focus on reliability, automation, and clean operational workflows."
+    },
+    {
+      "id": "2",
+      "title": "DevOps & Platform Work",
+      "description": "I work with Kubernetes, CI/CD pipelines, infrastructure automation, and observability tooling to improve delivery and stability."
+    },
+    {
+      "id": "3",
+      "title": "Backend & Technical Problem Solving",
+      "description": "From internal tools to support and incident response, I enjoy turning complex technical needs into practical solutions."
+    }
+  ],
+  "aboutpara": "I am a Bilkent University graduate specializing in information and computer technologies, with hands-on experience across cloud engineering, DevOps workflows, backend development, and support engineering. I enjoy building scalable systems with AWS and cloud-native tools, and I am especially motivated by work that turns complex infrastructure into reliable, practical solutions.",
+  "resume": {
+    "tagline": "I'm a cloud engineer focused on practical, reliable systems.",
+    "description": "I have experience across AWS, Kubernetes, CI/CD, backend development, and cloud support, with a strong interest in building scalable systems and improving engineering workflows.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "October - July 2025",
+        "type": "Full Time",
+        "position": "Native Cloud Engineer Associate at BestCloudFor.me",
+        "bullets": [
+          "Designed and managed scalable, secure, and cost-efficient AWS architectures.",
+          "Improved operational efficiency with Kubernetes-based orchestration.",
+          "Enhanced monitoring and troubleshooting with OpenSearch and New Relic.",
+          "Automated delivery workflows with ArgoCD and Jenkins."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "July - August 2024",
+        "type": "Internship",
+        "position": "Cloud Engineer Intern at Commencis",
+        "bullets": [
+          "Designed and implemented a proof-of-concept cloud architecture.",
+          "Worked with Terraform for infrastructure as code.",
+          "Implemented Jenkins pipelines to improve deployment workflows.",
+          "Shadowed senior engineers while resolving real-world support tickets."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Technological University of Shannon",
+        "program": "Software Engineering with AI for Cloud B.Sc",
+        "description": "Academic focus on software engineering and cloud-oriented systems with an emphasis on modern applied technologies."
+      },
+      {
+        "school": "Bilkent University",
+        "program": "Information and Computer Technologies",
+        "description": "Graduate with a specialization in information and computer technologies, complemented by cloud engineering and AWS certification work."
+      }
+    ],
+    "coursesAndCertifications": [
+      "AWS DevOps Engineer - Professional Certification",
+      "AWS Solution Architect - Associate Certification",
+      "AWS Cloud Practitioner Certification",
+      "Commencis Cloud Camp - Foundations of AWS Cloud",
+      "Commencis Test Camp - Foundation Level of Product Testing",
+      "CISCO Cybersecurity Essentials"
+    ],
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "PHP"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "others": [
+      "AWS",
+      "Jenkins",
+      "ArgoCD",
+      "OpenSearch",
+      "New Relic"
+    ]
+  }
+}
