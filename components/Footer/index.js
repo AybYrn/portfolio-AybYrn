@@ -24,7 +24,7 @@ const Footer = ({}) => {
       <h1 className="terminal-muted-strong text-xs uppercase tracking-[0.18em] mt-2 laptop:mt-10 p-2 laptop:p-0">
         Built by{" "}
         <Link href="https://github.com/AybYrn">
-          <a>Aybuke Yaren Kolcu</a>
+          <a>Aybuke Yaren</a>
         </Link>
       </h1>
     </>
